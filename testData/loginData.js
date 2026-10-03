@@ -1,0 +1,33 @@
+const loginData = 
+[{
+    username:"standard_user",
+    password:"secret_sauce",
+    message:"success"
+},
+{
+    username:"locked_out_user",
+    password:"secret_sauce",
+    message:"locked"
+},
+{
+    username:"problem_user",
+    password:"secret_sauce",
+    message:"success"
+},
+{
+    username:"performance_glitch_user",
+    password:"secret_sauce",
+    message:"success"
+},
+{
+    username:"error_user",
+    password:"secret_sauce",
+    message:"success"
+}
+,
+{
+    username:"visual_user",
+    password:"secret_sauce",
+    message:"success"
+}]
+module.exports=loginData
